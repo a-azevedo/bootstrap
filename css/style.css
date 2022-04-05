@@ -1,22 +1,28 @@
 body p {
     font-size: 20px;
 }
+
 .navbar {
     background-color: #d9ff66;
 }
+
 .quem-somos {
     background-color: aquamarine;
 }
+
 .parceiros {
     background-color: #cc99ff;
 }
+
 .servicos {
     background-color: #66ff99;
 }
+
 .margin {
     padding-bottom: 50px;
-    padding-top: 10px;    
+    padding-top: 10px;
 }
+
 .bg-footer {
     background-color: #0d0d0d;
     color: azure;
